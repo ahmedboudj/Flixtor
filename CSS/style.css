@@ -1,0 +1,45 @@
+
+body {
+    background-color: #222222;
+  }
+  
+  .navbar {
+    background-color: transparent !important;
+    box-shadow: 0 0 20px rgb(0 0 0 / 80%);
+  }
+  
+  .navbar-brand {
+    color: red !important;
+    font-size: 25px !important;
+  }
+  
+  .navbar i {
+    margin-left: 5px;
+  }
+  
+  .btn {
+    font-size: 20px;
+    background-color: red;
+    color: white;
+  }
+  
+  .btn1 {
+    background-color: #333;
+    color: #ccc;
+  }
+  
+  .overlay {
+    position: relative;
+    bottom: 55%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: red;
+    opacity: 0;
+  }
+  
+  img {
+    width: 200px;
+    height: 250px;
+  }
